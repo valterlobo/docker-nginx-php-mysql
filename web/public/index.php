@@ -36,7 +36,7 @@ $settings = [
 
         'pdo' => [
             'engine' => 'mysql',
-            'host' => '172.19.0.3',
+            'host' => 'mysql',
             'port' => '3306', 
             'database' => 'persons',
             'username' => 'root',
